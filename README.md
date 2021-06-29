@@ -27,6 +27,7 @@ Soy Emiliano Rodriguez, Ingeniero en sistemas, Full Stack developer, me gustan l
 ### MIS PROYECTOS 👋:
 
 Proyecto realizado con Javascript Html, CSS, React, Redux, Express, sequalize, PostgreSQL
+![app-food portada](https://user-images.githubusercontent.com/77893225/123815526-f331fe80-d8cc-11eb-84fa-929315e8fabb.PNG)
 
 ![app-food portada](https://user-images.githubusercontent.com/77893225/123815198-a9e1af00-d8cc-11eb-95cb-cdc81a3423b8.PNG)
 ![app-food home](https://user-images.githubusercontent.com/77893225/123815207-acdc9f80-d8cc-11eb-8c21-877f2259d327.PNG)
