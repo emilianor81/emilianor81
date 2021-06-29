@@ -5,7 +5,7 @@ Soy Emiliano Rodriguez, Ingeniero en sistemas, Full Stack developer, me gustan l
 
 
 TECNOLOGIAS:
-![css](https://user-images.githubusercontent.com/77893225/123802057-3e461480-d8c1-11eb-8800-0105d41d9359.png)
+![css](https://user-images.githubusercontent.com/77893225/123802292-89f8be00-d8c1-11eb-8618-dd2e90808147.png)
 
 <!--
 **emilianor81/emilianor81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
