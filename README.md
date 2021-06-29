@@ -14,8 +14,6 @@ Soy Emiliano Rodriguez, Ingeniero en sistemas, Full Stack developer, me gustan l
 
 
 <p>
-  <code> <img width = "10%" src = "https://user-images.githubusercontent.com/77893225/123802525-ca583c00-d8c1-11eb-86d8-b177d777024b.png"> </code>
-
   <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> </code>
   <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> </code>
   <br />
