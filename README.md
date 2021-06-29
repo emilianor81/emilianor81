@@ -33,7 +33,7 @@ Amo viajar ✈🛫✈ y los gatos🐱 !
 Proyecto realizado con Javascript Html, CSS, React, Redux, Express, sequalize, PostgreSQL
 
 <p>
-  <a> <img src = "https://user-images.githubusercontent.com/77893225/123806528-69cafe00-d8c5-11eb-9886-92ad893b7ab1.PNG"> </a>
+  <a> <img  width = "50%" heigth="50%" src = "https://user-images.githubusercontent.com/77893225/123806528-69cafe00-d8c5-11eb-9886-92ad893b7ab1.PNG"> </a>
   <a> <img src = "https://user-images.githubusercontent.com/77893225/123805235-494e7400-d8c4-11eb-9f85-0e8b246b1b46.PNG"> </a>
 </p>
 
