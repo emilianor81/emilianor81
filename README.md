@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Soy Emiliano Rodriguez, Ingeniero en sistemas, Full Stack developer, me gustan los deportes en general, y me apasiona la programacion 💻 y el mountain bike 🚴‍♀️
+Soy Emiliano Rodriguez, Ingeniero en sistemas, Full Stack developer(Javascript-NodeJS), me gustan los deportes en general, y me apasiona la programacion 💻 y el mountain bike 🚴‍♀️.
+Me considero curioso, sociable y no me gusta la burocracia
+Amo viajar ✈🛫✈ y los gatos🐱 !
 
 
 
