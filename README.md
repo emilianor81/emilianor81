@@ -8,12 +8,12 @@ Amo viajar ✈🛫✈ y los gatos🐱 !
 
 ### TECNOLOGIAS 👋:
 
-![javascript](https://user-images.githubusercontent.com/77893225/123825375-3e500f80-d8d5-11eb-8fd8-0ddc9c2a3d9b.png)
 
 ![css](https://user-images.githubusercontent.com/77893225/123803217-7a2da980-d8c2-11eb-933c-4a51ca0b0af2.png)
 ![react](https://user-images.githubusercontent.com/77893225/123803767-f1fbd400-d8c2-11eb-8398-3e2c77ce2f69.png)
 ![html](https://user-images.githubusercontent.com/77893225/123814132-d47f3800-d8cb-11eb-820c-5f52c2a69ebc.png)
 ![redux](https://user-images.githubusercontent.com/77893225/123816273-8ec36f00-d8cd-11eb-97e9-c7ee0b96e636.PNG)
+![javascript](https://user-images.githubusercontent.com/77893225/123826183-e9f95f80-d8d5-11eb-9b6a-24b3618176c5.png)
 
 
 
