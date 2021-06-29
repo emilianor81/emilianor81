@@ -18,7 +18,6 @@ Soy Emiliano Rodriguez, Ingeniero en sistemas, Full Stack developer, me gustan l
   <code> <img width = "10%" heigth="10%" src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> </code>
   <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> </code>
   <br />
-  <code> <img width = "10%" height = "45" src = "https://user-images.githubusercontent.com/77893225/123803064-536f7300-d8c2-11eb-8973-88420c88fa7c.PNG"> </code>
   <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"> </code>
   <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> </code>
   <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg"> </code>
