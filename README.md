@@ -27,12 +27,21 @@ Soy Emiliano Rodriguez, Ingeniero en sistemas, Full Stack developer, me gustan l
 ### MIS PROYECTOS 👋:
 
 Proyecto realizado con Javascript Html, CSS, React, Redux, Express, sequalize, PostgreSQL
-![app-food portada](https://user-images.githubusercontent.com/77893225/123815526-f331fe80-d8cc-11eb-84fa-929315e8fabb.PNG)
 
-![app-food portada](https://user-images.githubusercontent.com/77893225/123815198-a9e1af00-d8cc-11eb-95cb-cdc81a3423b8.PNG)
-![app-food home](https://user-images.githubusercontent.com/77893225/123815207-acdc9f80-d8cc-11eb-8c21-877f2259d327.PNG)
+![app-food portada](https://user-images.githubusercontent.com/77893225/123816589-d1854700-d8cd-11eb-9fc0-f2ab729dab18.PNG)
+![app-food home](https://user-images.githubusercontent.com/77893225/123816622-d77b2800-d8cd-11eb-951e-ee03d6664fc0.PNG)
+
+<br /><br />
+<br />
+<br />
+
+Proyecto realizado con Javascript Html, CSS, Bootstrap
 
 ![caprtura-carniceria](https://user-images.githubusercontent.com/77893225/123804770-e0ff9280-d8c3-11eb-8c42-d1df6ca884e2.PNG)
+
+<br /><br />
+<br />
+<br />
 ![dental office web](https://user-images.githubusercontent.com/77893225/123804783-e3fa8300-d8c3-11eb-8e49-ee8a8e53c4e0.PNG)
 
 <p>
