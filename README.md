@@ -33,8 +33,8 @@ Amo viajar ✈🛫✈ y los gatos🐱 !
 Proyecto realizado con Javascript Html, CSS, React, Redux, Express, sequalize, PostgreSQL
 
 <p>
-  <a> <img  width = "50%" heigth="50%" src = "https://user-images.githubusercontent.com/77893225/123806528-69cafe00-d8c5-11eb-9886-92ad893b7ab1.PNG"> </a>
-  <a> <img  width = "50%" heigth="50%" src = "https://user-images.githubusercontent.com/77893225/123805235-494e7400-d8c4-11eb-9f85-0e8b246b1b46.PNG"> </a>
+  <a> <img  width = "65%" heigth="65%" src = "https://user-images.githubusercontent.com/77893225/123806528-69cafe00-d8c5-11eb-9886-92ad893b7ab1.PNG"> </a>
+  <a> <img  width = "65%" heigth="65%" src = "https://user-images.githubusercontent.com/77893225/123805235-494e7400-d8c4-11eb-9f85-0e8b246b1b46.PNG"> </a>
 </p>
 
 
@@ -43,23 +43,25 @@ Proyecto realizado con Javascript Html, CSS, React, Redux, Express, sequalize, P
 
 Proyecto realizado con Javascript Html, CSS, Bootstrap 100% responsive
 
-![caprtura-carniceria](https://user-images.githubusercontent.com/77893225/123804770-e0ff9280-d8c3-11eb-8c42-d1df6ca884e2.PNG)
-
+<p>
+  <a> <img  width = "65%" heigth="65%" src = "https://user-images.githubusercontent.com/77893225/123804770-e0ff9280-d8c3-11eb-8c42-d1df6ca884e2.PNG"> </a>
+</p>
 
 <br />
 <br />
 
 Proyecto realizado con Javascript Html, CSS, Bootstrap 100% responsive
 
-![dental office web](https://user-images.githubusercontent.com/77893225/123804783-e3fa8300-d8c3-11eb-8e49-ee8a8e53c4e0.PNG)
-
+<p>
+  <a> <img  width = "65%" heigth="65%" src = "https://user-images.githubusercontent.com/77893225/123804783-e3fa8300-d8c3-11eb-8e49-ee8a8e53c4e0.PNG"> </a>
+</p>
 
 Proyecto realizado con Html, CSS Puro- 100% responsive
 
 <p>
-  <a> <img width = "50%" heigth="50%" src = "https://user-images.githubusercontent.com/77893225/123805261-4e132800-d8c4-11eb-8998-5c18c1d665a2.PNG"> </a>
-  <a> <img width = "50%" heigth="50%" src = "https://user-images.githubusercontent.com/77893225/123805269-50758200-d8c4-11eb-97df-f7fd59bb3545.PNG"> </a>
-  <a> <img width = "50%" heigth="50%" src = "https://user-images.githubusercontent.com/77893225/123805281-52d7dc00-d8c4-11eb-9375-f067179fb0e5.PNG"> </a>
+  <a> <img width = "65%" heigth="65%" src = "https://user-images.githubusercontent.com/77893225/123805261-4e132800-d8c4-11eb-8998-5c18c1d665a2.PNG"> </a>
+  <a> <img width = "65%" heigth="65%" src = "https://user-images.githubusercontent.com/77893225/123805269-50758200-d8c4-11eb-97df-f7fd59bb3545.PNG"> </a>
+  <a> <img width = "65%" heigth="65%" src = "https://user-images.githubusercontent.com/77893225/123805281-52d7dc00-d8c4-11eb-9375-f067179fb0e5.PNG"> </a>
 </p>
 
 
