@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Soy Emiliano Rodriguez, Ingeniero en sistemas, Full Stack developer, me gustan los deportes en general, y me apasiona la programacion 💻 y el mountain bike 🚴‍♀️
+
+
+
+TECNOLOGIAS:
+![css](https://user-images.githubusercontent.com/77893225/123802057-3e461480-d8c1-11eb-8800-0105d41d9359.png)
+
 <!--
 **emilianor81/emilianor81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
