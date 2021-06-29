@@ -67,6 +67,7 @@ Proyecto realizado con Html, CSS Puro- 100% responsive
 
 <span>
 <a href="https://www.linkedin.com/in/ing-emiliano-rodriguez/"> <img width = "5%" src = "https://user-images.githubusercontent.com/77893225/123805833-cd086080-d8c4-11eb-8f17-ef778e7a3671.png">;
+ <a href="mailto:emilianor81@gmail.com">Click aqui para enviarme un mail</a> 
 <a href="mailto: emilianor81@gmail.com"> <img width = "5%" src = "https://user-images.githubusercontent.com/77893225/123805927-d98cb900-d8c4-11eb-9075-3350cf4826e5.jpg">
 </span>
 <!--
