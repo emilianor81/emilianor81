@@ -27,19 +27,21 @@ Soy Emiliano Rodriguez, Ingeniero en sistemas, Full Stack developer, me gustan l
   <br />
 </p>
 
+###: chincheta: Mis proyectos👋:
 
-##: chincheta: Mis proyectos
-![app-food home](https://user-images.githubusercontent.com/77893225/123806528-69cafe00-d8c5-11eb-9886-92ad893b7ab1.PNG)
-![app-food home](https://user-images.githubusercontent.com/77893225/123805235-494e7400-d8c4-11eb-9f85-0e8b246b1b46.PNG)
 
 ![caprtura-carniceria](https://user-images.githubusercontent.com/77893225/123804770-e0ff9280-d8c3-11eb-8c42-d1df6ca884e2.PNG)
 ![dental office web](https://user-images.githubusercontent.com/77893225/123804783-e3fa8300-d8c3-11eb-8e49-ee8a8e53c4e0.PNG)
 
-
+<p>
+  <a> <img src = "https://user-images.githubusercontent.com/77893225/123806528-69cafe00-d8c5-11eb-9886-92ad893b7ab1.PNG"> </a>
+  <a> <img src = "https://user-images.githubusercontent.com/77893225/123805235-494e7400-d8c4-11eb-9f85-0e8b246b1b46.PNG"> </a>
+</p>
 <p>
   <a> <img src = "https://user-images.githubusercontent.com/77893225/123804755-dd6c0b80-d8c3-11eb-96ff-e23d554fc374.PNG"> </a>
   <a> <img src = "https://user-images.githubusercontent.com/77893225/123805235-494e7400-d8c4-11eb-9f85-0e8b246b1b46.PNG"> </a>
 </p>
+
 <p>
   <a> <img src = "https://user-images.githubusercontent.com/77893225/123805261-4e132800-d8c4-11eb-8998-5c18c1d665a2.PNG"> </a>
   <a> <img src = "https://user-images.githubusercontent.com/77893225/123805269-50758200-d8c4-11eb-97df-f7fd59bb3545.PNG"> </a>
