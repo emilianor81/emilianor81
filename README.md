@@ -69,7 +69,7 @@ Proyecto realizado con Html, CSS Puro- 100% responsive
 <a target="_blank" href="https://www.linkedin.com/in/ing-emiliano-rodriguez/"> <img width = "5%" src = "https://user-images.githubusercontent.com/77893225/123805833-cd086080-d8c4-11eb-8f17-ef778e7a3671.png">;
 <a href="mailto:emilianor81@gmail.com"> <img width = "6%" src = "https://user-images.githubusercontent.com/77893225/123805927-d98cb900-d8c4-11eb-9075-3350cf4826e5.jpg"> </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5493815039017&text=Hola!&nbsp;tengo&nbsp;una&nbsp;consulta">
-    <img width = "10%" src="https://user-images.githubusercontent.com/77893225/123820744-31312180-d8d1-11eb-867f-5e68b6dd33af.png">
+    <img width = "5%" src="https://user-images.githubusercontent.com/77893225/123820744-31312180-d8d1-11eb-867f-5e68b6dd33af.png">
   </a>
   </span>
 <!--
