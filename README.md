@@ -10,12 +10,13 @@ Soy Emiliano Rodriguez, Ingeniero en sistemas, Full Stack developer, me gustan l
 ![css](https://user-images.githubusercontent.com/77893225/123803217-7a2da980-d8c2-11eb-933c-4a51ca0b0af2.png)
 ![react](https://user-images.githubusercontent.com/77893225/123803767-f1fbd400-d8c2-11eb-8398-3e2c77ce2f69.png)
 ![html](https://user-images.githubusercontent.com/77893225/123813829-971aaa80-d8cb-11eb-96de-0ee86fe2541b.png)
+![html](https://user-images.githubusercontent.com/77893225/123814132-d47f3800-d8cb-11eb-820c-5f52c2a69ebc.png)
+
 
 
 <p>
   <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
   <code> <img width = "10%" src = "https://user-images.githubusercontent.com/77893225/123802525-ca583c00-d8c1-11eb-86d8-b177d777024b.png"> </code>
-  <code> <img width = "10%" src = "https://user-images.githubusercontent.com/77893225/123813829-971aaa80-d8cb-11eb-96de-0ee86fe2541b.png"> </code>
 
   <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> </code>
   <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> </code>
