@@ -6,8 +6,6 @@ Soy Emiliano Rodriguez, Ingeniero en sistemas, Full Stack developer, me gustan l
 
 ### TECNOLOGIAS 👋:
 
-![css](https://user-images.githubusercontent.com/77893225/123802525-ca583c00-d8c1-11eb-86d8-b177d777024b.png)
-![redux](https://user-images.githubusercontent.com/77893225/123803064-536f7300-d8c2-11eb-8973-88420c88fa7c.PNG)
 
 ![css](https://user-images.githubusercontent.com/77893225/123803217-7a2da980-d8c2-11eb-933c-4a51ca0b0af2.png)
 ![react](https://user-images.githubusercontent.com/77893225/123803767-f1fbd400-d8c2-11eb-8398-3e2c77ce2f69.png)
@@ -15,12 +13,14 @@ Soy Emiliano Rodriguez, Ingeniero en sistemas, Full Stack developer, me gustan l
 
 <p>
   <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
+    <code> <img width = "10%" src = "https://user-images.githubusercontent.com/77893225/123802525-ca583c00-d8c1-11eb-86d8-b177d777024b.png"> </code>
+
    <code> <img width = "10%" src = "https://user-images.githubusercontent.com/77893225/123803767-f1fbd400-d8c2-11eb-8398-3e2c77ce2f69.png"> </code>
   <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> </code>
   <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> </code>
   <br />
   <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
-  <code> <img width = "10%" height = "45" src = "https://cdn.worldvectorlogo.com/logos/redux.svg"> </code>
+  <code> <img width = "10%" height = "45" src = "https://user-images.githubusercontent.com/77893225/123803064-536f7300-d8c2-11eb-8973-88420c88fa7c.PNG"> </code>
   <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"> </code>
   <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> </code>
   <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg"> </code>
@@ -38,11 +38,6 @@ Soy Emiliano Rodriguez, Ingeniero en sistemas, Full Stack developer, me gustan l
   <a> <img src = "https://user-images.githubusercontent.com/77893225/123805235-494e7400-d8c4-11eb-9f85-0e8b246b1b46.PNG"> </a>
 </p>
 <p>
-  <a> <img src = "https://user-images.githubusercontent.com/77893225/123804755-dd6c0b80-d8c3-11eb-96ff-e23d554fc374.PNG"> </a>
-  <a> <img src = "https://user-images.githubusercontent.com/77893225/123805235-494e7400-d8c4-11eb-9f85-0e8b246b1b46.PNG"> </a>
-</p>
-
-<p>
   <a> <img src = "https://user-images.githubusercontent.com/77893225/123805261-4e132800-d8c4-11eb-8998-5c18c1d665a2.PNG"> </a>
   <a> <img src = "https://user-images.githubusercontent.com/77893225/123805269-50758200-d8c4-11eb-97df-f7fd59bb3545.PNG"> </a>
   <a> <img src = "https://user-images.githubusercontent.com/77893225/123805281-52d7dc00-d8c4-11eb-9375-f067179fb0e5.PNG"> </a>
@@ -50,9 +45,10 @@ Soy Emiliano Rodriguez, Ingeniero en sistemas, Full Stack developer, me gustan l
 
 
 ##: clip: Contacto:
+
 <intervalo>
-<a href="www.linkedin.com/in/ing-emiliano-rodriguez/"> <img width = "5%" src = "https://user-images.githubusercontent.com/77893225/123805833-cd086080-d8c4-11eb-8f17-ef778e7a3671.png">;
-<a href="mailto:emilianor81@gmail.com"> <img width = "5%" src = "https://user-images.githubusercontent.com/77893225/123805927-d98cb900-d8c4-11eb-9075-3350cf4826e5.jpg">
+<a href="https://www.linkedin.com/in/ing-emiliano-rodriguez/"> <img width = "5%" src = "https://user-images.githubusercontent.com/77893225/123805833-cd086080-d8c4-11eb-8f17-ef778e7a3671.png">;
+<a href="mailto: emilianor81@gmail.com"> <img width = "5%" src = "https://user-images.githubusercontent.com/77893225/123805927-d98cb900-d8c4-11eb-9075-3350cf4826e5.jpg">
 </span>
 <!--
 **emilianor81/emilianor81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
