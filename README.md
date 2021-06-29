@@ -8,6 +8,7 @@ Amo viajar ✈🛫✈ y los gatos🐱 !
 
 ### TECNOLOGIAS 👋:
 
+![javascript](https://user-images.githubusercontent.com/77893225/123825375-3e500f80-d8d5-11eb-8fd8-0ddc9c2a3d9b.png)
 
 ![css](https://user-images.githubusercontent.com/77893225/123803217-7a2da980-d8c2-11eb-933c-4a51ca0b0af2.png)
 ![react](https://user-images.githubusercontent.com/77893225/123803767-f1fbd400-d8c2-11eb-8398-3e2c77ce2f69.png)
@@ -18,6 +19,7 @@ Amo viajar ✈🛫✈ y los gatos🐱 !
 
 <p>
   <code> <img width = "10%" heigth="10%" src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> </code>
+  <code> <img width = "10%" heigth="10%" src = "https://user-images.githubusercontent.com/77893225/123816273-8ec36f00-d8cd-11eb-97e9-c7ee0b96e636.PNG"> </code>
   <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> </code>
   <br />
   <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"> </code>
