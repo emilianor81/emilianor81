@@ -29,22 +29,31 @@ Soy Emiliano Rodriguez, Ingeniero en sistemas, Full Stack developer, me gustan l
 
 ##: chincheta: Mis proyectos
 
+![app-food home](https://user-images.githubusercontent.com/77893225/123804755-dd6c0b80-d8c3-11eb-96ff-e23d554fc374.PNG)
+![app-food home](https://user-images.githubusercontent.com/77893225/123805235-494e7400-d8c4-11eb-9f85-0e8b246b1b46.PNG)
+
+![caprtura-carniceria](https://user-images.githubusercontent.com/77893225/123804770-e0ff9280-d8c3-11eb-8c42-d1df6ca884e2.PNG)
+![dental office web](https://user-images.githubusercontent.com/77893225/123804783-e3fa8300-d8c3-11eb-8e49-ee8a8e53c4e0.PNG)
+![curso1](https://user-images.githubusercontent.com/77893225/123805261-4e132800-d8c4-11eb-8998-5c18c1d665a2.PNG)
+![curso2](https://user-images.githubusercontent.com/77893225/123805269-50758200-d8c4-11eb-97df-f7fd59bb3545.PNG)
+![curso 3](https://user-images.githubusercontent.com/77893225/123805281-52d7dc00-d8c4-11eb-9375-f067179fb0e5.PNG)
+
+
 <p>
-  <a> <img src = "https://github.com/WanCirone/wancirone/blob/main/images/petStore/home.png"> </a>
-  <a> <img src = "https://github.com/WanCirone/wancirone/blob/main/images/petStore/catalogo.png"> </a>
-  <a> <img src = "https://github.com/WanCirone/wancirone/blob/main/images/petStore/tablaordenes.png"> </a>
+  <a> <img src = "https://user-images.githubusercontent.com/77893225/123804755-dd6c0b80-d8c3-11eb-96ff-e23d554fc374.PNG"> </a>
+  <a> <img src = "https://user-images.githubusercontent.com/77893225/123805235-494e7400-d8c4-11eb-9f85-0e8b246b1b46.PNG"> </a>
 </p>
 <p>
-  <a> <img src = "https://github.com/WanCirone/wancirone/blob/main/images/petStore/carrito.png"> </a>
-  <a> <img src = "https://github.com/WanCirone/wancirone/blob/main/images/petStore/reviews.png"> </a>
-  <a> <img src = "https://github.com/WanCirone/wancirone/blob/main/images/petStore/average.png"> </a>
+  <a> <img src = "https://user-images.githubusercontent.com/77893225/123805261-4e132800-d8c4-11eb-8998-5c18c1d665a2.PNG"> </a>
+  <a> <img src = "https://user-images.githubusercontent.com/77893225/123805269-50758200-d8c4-11eb-97df-f7fd59bb3545.PNG"> </a>
+  <a> <img src = "https://user-images.githubusercontent.com/77893225/123805281-52d7dc00-d8c4-11eb-9375-f067179fb0e5.PNG"> </a>
 </p>
 
 
 ##: clip: Contacto:
 <intervalo>
-<a href="www.linkedin.com/in/ing-emiliano-rodriguez/"> <img width = "5%" src = "https://C:\emiliano\gitHub\link.png"> & nbsp;
-<a href="mailto:wandacirone@gmail.com"> <img width = "5%" src = "https://C:\emiliano\gitHub\gmail.png">
+<a href="www.linkedin.com/in/ing-emiliano-rodriguez/"> <img width = "5%" src = "https://user-images.githubusercontent.com/77893225/123805833-cd086080-d8c4-11eb-8f17-ef778e7a3671.png">;
+<a href="mailto:emilianor81@gmail.com"> <img width = "5%" src = "https://user-images.githubusercontent.com/77893225/123805927-d98cb900-d8c4-11eb-9075-3350cf4826e5.jpg">
 </span>
 <!--
 **emilianor81/emilianor81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
