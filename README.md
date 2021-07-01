@@ -66,6 +66,10 @@ Proyecto realizado con Html, CSS Puro- 100% responsive
   <a> <img width = "65%" heigth="65%" src = "https://user-images.githubusercontent.com/77893225/123805281-52d7dc00-d8c4-11eb-9375-f067179fb0e5.PNG"> </a>
 </p>
 
+<p>
+  <img width = "65%" heigth="65%" src = "https://user-images.githubusercontent.com/77893225/124183982-553a6180-da8f-11eb-83c4-188d038c3d72.PNG">
+ </p>
+
 
 ### CONTACTO 👋:
 
