@@ -36,7 +36,6 @@ Proyecto de ecommerce realizado con Javascript Html, CSS,Bootstrap,  React, Redu
 
 <p>
   <a> <img  width = "65%" heigth="65%" src = "https://user-images.githubusercontent.com/77893225/126551043-fb019200-26cb-4ef7-a837-8163c999060a.PNG"> </a>
-  <a> <img  width = "65%" heigth="65%" src = "https://user-images.githubusercontent.com/77893225/126551060-5173ca4a-9074-457e-aaba-492f039e33e6.PNG"> </a>
    <a> <img  width = "65%" heigth="65%" src = "https://user-images.githubusercontent.com/77893225/126551077-abe42314-8044-4142-b50c-b81e620c25a5.PNG"> </a>
 
 </p>
