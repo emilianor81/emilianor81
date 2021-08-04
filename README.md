@@ -39,6 +39,13 @@ Proyecto de ecommerce realizado con Javascript Html, CSS,Bootstrap,  React, Redu
 ![carri3](https://user-images.githubusercontent.com/77893225/126552010-158832ec-1430-4f04-b239-c0e83def7e4e.PNG)
 
 
+<p>
+  <img  width = "65%" heigth="65%" src = "https://user-images.githubusercontent.com/77893225/126551964-55328529-74db-4e9d-b84e-79a986e74d27.PNG"> 
+   <img  width = "65%" heigth="65%" src = "https://user-images.githubusercontent.com/77893225/126551993-ef821442-bda9-4008-861d-52b220531e37.PNG">
+     <img  width = "65%" heigth="65%" src = "https://user-images.githubusercontent.com/77893225/126552010-158832ec-1430-4f04-b239-c0e83def7e4e.PNG">
+
+</p>
+
 
 
 Proyecto realizado con Javascript Html, CSS, React, Redux, Express, sequalize, PostgreSQL
