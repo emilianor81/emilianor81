@@ -19,7 +19,7 @@ Amo viajar ✈🛫✈ y los gatos🐱 !
 
 <p>
   <code> <img width = "10%" heigth="10%" src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> </code>
-  <code> <img width = "10%" heigth="10%" src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg](https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg"> </code>
+  <code> <img width = "10%" heigth="10%" src = "https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg"> </code>
 
   <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> </code>
   <br />
