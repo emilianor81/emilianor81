@@ -1,7 +1,7 @@
 ### Hola, Bienvenido a mi perfil de Github 👋
 
-Soy Emiliano Rodriguez, Ingeniero en sistemas, Full Stack developer(Javascript-React- Angular - NodeJS- Express- PostgreSQL- MongoDb), me gustan los deportes en general, y me apasiona la programacion 💻 y el mountain bike 🚴‍♀️.
-Me considero curioso, sociable y me encanta la gente positiva
+Soy Emiliano Rodriguez, Ingeniero de Software y Full Stack developer(Javascript-React- Angular - NodeJS- Express- MySql - PostgreSQL- MongoDb), me gustan los deportes en general, y me apasiona la programacion 💻 , el futbol, las artes marciales y el mountain bike 🚴‍♀️.
+Me considero curioso, disciplinado, sociable y me encanta la gente positiva
 Amo viajar ✈🛫✈ y los gatos🐱 !
 
 
